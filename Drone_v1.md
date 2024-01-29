@@ -1,8 +1,9 @@
 # 3D-mallinnus ja -tulostus
 
-# Kamera
-
 # Moottorit, renkaat ja muut osat
 
-# Ohjaus
+# Kamera
 
+Käytössä Raspberry Pi Camera v2 moduuli. 
+
+# Ohjaus
