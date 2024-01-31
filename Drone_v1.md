@@ -6,7 +6,7 @@ Tehtävänä on rakentaa lähes samankaltainen drone kuin pelissä Rainbow Six S
 
 ## 3D-mallinnus ja -tulostus
 
-## Moottorit, renkaat ja muut osat
+## Moottorit ja renkaat
 
   ### Renkaat
   Renkaiden valintaan vaikuttaa sekä dronen liikkuvuuden maksimoiminen että renkaiden tasaisuus, koska tärinä vaikuttaa kameran kuvaan.
@@ -26,3 +26,5 @@ Tehtävänä on rakentaa lähes samankaltainen drone kuin pelissä Rainbow Six S
 Käytössä Raspberry Pi Camera v2 moduuli. 
 
 ## Ohjaus
+
+## Muut osat
