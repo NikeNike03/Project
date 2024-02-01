@@ -5,7 +5,7 @@
 Tehtävänä on rakentaa lähes samankaltainen drone kuin pelissä Rainbow Six Siege kuitenkin poistamalla tarpeettomia tai vaikeasti toteutettavia osia, mutta myös lisäämällä osia, joista voisi olla hyötyä. 
 
 ## 3D-mallinnus ja -tulostus
-
+  Runko on mallinnettu onshape-ohjelmalla. 
 ## Moottorit ja renkaat
 
   ### Renkaat
