@@ -25,6 +25,8 @@ Tehtävänä on rakentaa lähes samankaltainen drone kuin pelissä Rainbow Six S
 
 Käytössä Raspberry Pi Camera v2 moduuli. 
 
+Videon webstriimaamiseen käytetään Picamera2 python kirjaston antimia sekä tarkemmin valmiiksi kirjoitettua [python koodia](https://github.com/raspberrypi/picamera2/blob/main/examples/mjpeg_server.py).
+
 ## Ohjaus
 
 ## Muut osat
