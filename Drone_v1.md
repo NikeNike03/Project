@@ -5,7 +5,7 @@
 Tehtävänä on rakentaa lähes samankaltainen drone kuin pelissä Rainbow Six Siege kuitenkin poistamalla tarpeettomia tai vaikeasti toteutettavia osia, mutta myös lisäämällä osia, joista voisi olla hyötyä. 
 
 ## 3D-mallinnus ja -tulostus
-  Runko on mallinnettu onshape-ohjelmalla. 
+  Runko on mallinnettu onshape-ohjelmalla. Rungosta tulee noin 200mm pitkä ja poikkileikkaukseltaan 75mm pitkä sylinteri. Rungon muotoon vaikuttaa renkaiden malli ja lukumäärä.
 ## Moottorit ja renkaat
 
   ### Renkaat
