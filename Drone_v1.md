@@ -34,3 +34,9 @@ Videon webstriimaamiseen käytetään Picamera2 python kirjaston antimia sekä t
 # Ohjaus
 
 # Muut osat
+
+
+# Nimiehdotuksia
+- SKM -Drone (Sateenkaarikuuden motti -Drone)
+- Super High Fidelity 5G AI powered surveillance drone with built in automated water filtration system and bomb removal kit.
+- Martti
