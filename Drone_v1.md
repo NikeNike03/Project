@@ -15,13 +15,15 @@ Tehtävänä on rakentaa lähes samankaltainen drone kuin pelissä Rainbow Six S
   Mecanum pyörät mahdollistavat 4 pyörän konfiguraatiolla liikkumisen mihin tahansa suuntaan vaakatasolla. Koska dronessa on kuitenkin vain kaksi pyörää, ei se kykenisi tällä rengasmallilla (ainakaan omien tietojeni mukaan) kuin rajoitettuun sivuttaiseen liikkeeseen eteen- ja taaksepäin liikkumisen lisäksi. 
   Yksi mahdollisuus olisi sijoittaa kaksi lisäpyörää droneen kuten videolla [Collinear Mecanum Drive Video](https://www.youtube.com/watch?v=EG2pka4Bczg) ([CMD Github](https://github.com/matthew-t-watson/CollinearMecanumDrive)). Ongelmaksi osoittautuisi renkaiden ja lisämoottoreiden sijoitus jo muutenkin pieneen laitteeseen, mutta myös mihin ne olisi parasta sijoittaa. Toinen ongelma olisi juuri tämän rengastyypin epätasaisuus ja miten se vaikuttaisi kameran kuvaan etenkin suuremmilla nopeuksilla.
 
-  ### Vaihtoehto 2: Omnipyörät
+  ### Vaihtoehto 2: Omnipyörät <----
   Omnipyörien avulla drone pystyisi liikkumaan mihin suuntaan vain kolmella pyörällä, jotka olisivat 120 asteen kulmassa toisiaan vastaan. Tämän lisäpyörän voisi sijoittaa esimerkiksi taakse jolloin se samalla tasapainottaisi dronea. 
 
   ### Vaihtoehto 3: Normaalit pyörät
   ... normaalit pyörät
 
-  
+  Tämä projekti tullaan toteuttamaan omnipyörien avulla. Sivussa olevat pyörät tulevat osoittamaan sisäviistoon kun taas taakse sijoitettu rengas pyörii sivuttain. 
+
+  ---
 
 # Kamera
 
