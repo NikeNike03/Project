@@ -1,4 +1,4 @@
-ELEC-A4010/4910 Sähköpaja, projektisuunnitelma
+ELEC-A4010 Sähköpaja, projektisuunnitelma
 PVM: 15.02.2024
 Ryhmä: Niklas Eloranta, niklas.eloranta@aalto.fi; Juho Aikio; Leo Di Poi; Veli-Pekka Saarinen
 Nimikkoassistentti: Henrik Toikka
@@ -6,9 +6,9 @@ Nimikkoassistentti: Henrik Toikka
 Rainbow Six Siege -Drone
 [Kuva]
 Tarkoituksena on rakentaa lähes samankaltainen drone kuin pelissä Rainbow Six Siege. Joitain muutoksia on tehtävä, koska dronen osien toiminnallisuus ei aina vastaa todellisuutta. Esimerkiksi pelkästään kaksi mecanum tyyppistä pyörää ei mahdollista pelissä nähtävää vapaata vaakatasoista liikettä. 
-Päätimme niiden sijasta kolmea omniwheel pyörää. 
+Päätimme käyttää niiden sijasta kolmea omnipyörää. 
 Ohjauksen vastaanottamiseen sekä kameran kuvan lähettämiseen käytetään Raspberry Pi 3B:tä. Käytettävä kamera on Raspberry Pi Camera Module V2 ja sen kuvaa lähetetään samassa (ja myöhemmin mahdollisesti eri) verkossa oleville laitteille niin, että suoratoistoa voi seurata selaimesta.
-Tähän käytettiin apuna Picamera2 python kirjastoa ja kirjaston dokumentoinnista löytyvää valmista koodia. (Tähän lisää ohjaimesta!!!)
+Tähän käytettiin apuna Picamera2 python kirjastoa ja kirjaston dokumentoinnista löytyvää valmista koodia. 
 
 Tarvittavat osat:
 - Raspberry Pi 3B
@@ -16,6 +16,6 @@ Tarvittavat osat:
 - 3 omnipyörää
 - 3 DC-moottoria
 - Moottorinohjain
-- Jokin ohjain
+- Jokin kauko-ohjain (esim. pajalta löytyviä joystickejä ja nappeja)
 - 3D-printtaus
   - Runko
