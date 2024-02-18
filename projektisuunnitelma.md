@@ -1,6 +1,6 @@
 ELEC-A4010 Sähköpaja, projektisuunnitelma
 PVM: 15.02.2024
-!(drone.)[Drone]
+!(Drone)[Images/Drone.webp]
 Ryhmä: 
 - Niklas Eloranta, niklas.eloranta@aalto.fi
 - Juho Aikio, 
