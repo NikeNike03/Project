@@ -1,6 +1,6 @@
 ELEC-A4010 Sähköpaja, projektisuunnitelma
 PVM: 15.02.2024
-!(Drone)[Images/Drone.webp]
+![Rainbow Six Siege Drone](Images/R6S_Drone.webp)
 Ryhmä: 
 - Niklas Eloranta, niklas.eloranta@aalto.fi
 - Juho Aikio, 
