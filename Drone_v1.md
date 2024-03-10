@@ -31,6 +31,8 @@ Käytössä Raspberry Pi Camera v2 moduuli.
 
 Videon webstriimaamiseen käytetään Picamera2 python kirjaston antimia sekä tarkemmin valmiiksi kirjoitettua [python koodia](https://github.com/raspberrypi/picamera2/blob/main/examples/mjpeg_server.py).
 
+Kameramoduuli rajaa kuvaa kun resoluutio on pienempi kuin natiiviresoluutio. Tällöin jollain resoluutioilla video voi olla todella rajattu jolloin video on vain pieni osa keskeltä todellista videosta. Suurimmalla resoluutiolla (3280x2464) saadaan suurin kuva-alue, mutta on otettava myös huomioon, että tämä tarkoittaa suurempaa tiedostokokoa, joka on lähetettävä selaimeen, joka johtaa suurempaan viiveeseen. Paras laatu/viive -suhde saavutetaan resoluutiolla 1640x1232, joka on itse asiassa suurimman resoluution binnattu versio. Tällä resoluutiolla suoratoisto saadaan selaimeen noin 370ms viiveellä.
+
 # Ohjaus
 
 # Muut osat
